@@ -1,5 +1,5 @@
 # KitchenOfTheWorld.
-# Restaurant : Object Oriented Programming Language (Java) project at Sorbonne University
+# Object Oriented Programming Language (Java) project at Sorbonne University
 
 <h1> The restaurant kitchen of the world 🥄🌐 </h1>
 
